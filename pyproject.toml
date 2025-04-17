@@ -8,4 +8,5 @@ dependencies = [
     "gymnasium>=1.1.1",
     "stable-baselines3[extra]>=2.6.0",
     "tyro>=0.9.18",
+    "wandb>=0.19.9",
 ]
